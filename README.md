@@ -26,3 +26,5 @@ Una herramienta de JAVA que genera documentacion en HTML
 5. ¿Qué diferencia hay entre // y //** ... */¨ ?
 
 "//" permite solo comentarios en una sola linea y "/** ... */" es para escribir comentarios en multiples lineas 
+
+![img.png](img.png)
